@@ -1,4 +1,4 @@
 # Portfolio
 This is my WebPage.
 
-Visit: https://sigmarajput.github.io/portfolio/
+Visit: https://sigmarajput.github.io/Portfolio/
