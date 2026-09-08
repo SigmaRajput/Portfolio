@@ -1,0 +1,7 @@
+<svg width="480" height="300" viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="300" fill="#0e150e"/>
+  <rect x="4" y="4" width="472" height="292" fill="none" stroke="#39ff6a" stroke-width="1.5" stroke-dasharray="8 8" opacity="0.55"/>
+  <path d="M170 190l40-50 30 36 24-28 46 42" fill="none" stroke="#39ff6a" stroke-width="2.5" opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="190" cy="112" r="12" fill="none" stroke="#39ff6a" stroke-width="2.5" opacity="0.7"/>
+  <text x="240" y="252" font-family="JetBrains Mono, monospace" font-size="14" fill="#7fa889" text-anchor="middle">// replace-screenshot.png</text>
+</svg>
