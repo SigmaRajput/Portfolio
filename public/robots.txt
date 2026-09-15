@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sigmarajput.github.io/Portfolio/sitemap.xml
