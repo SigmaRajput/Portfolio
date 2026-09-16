@@ -239,7 +239,11 @@ export default function App() {
           </div>
 
           <div className="hero-cta">
-            <a className="btn primary" href={profile.resumeUrl} target="_blank" rel="noreferrer">
+            <a
+              className="btn primary"
+              href={profile.resumeUrl}
+              download="Ravi_Singh_Resume.pdf"
+            >
               download resume
             </a>
             <a className="btn" href="#contact">

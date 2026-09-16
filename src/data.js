@@ -15,8 +15,8 @@ export const profile = {
     "Backend systems that scale. APIs that don't break. Problems that don't come back.",
   summary:
     "Software Engineer with 2+ years building enterprise-scale applications in Java, Spring Boot, REST APIs, PostgreSQL, AWS and React.js. Focused on backend systems, microservices, and cloud deployment for banking platforms. Google Cloud certified, 1200+ LeetCode problems solved, and building AI-powered tools on top of the Gemini API.",
-  resumeUrl: "https://drive.google.com/file/d/1E-vnTLwfbGP6U3hlZOCQuXulwYvNafIU/view?usp=sharing",
-  resumePreviewUrl: "https://drive.google.com/file/d/1E-vnTLwfbGP6U3hlZOCQuXulwYvNafIU/preview",
+  resumeUrl: asset("/resume.pdf"),
+  resumePreviewUrl: asset("/resume.pdf"),
   githubUsername: "SigmaRajput",
   leetcodeUsername: "Sigma-lord",
   githubStatsImg: asset("/images/github-stats.png"),
